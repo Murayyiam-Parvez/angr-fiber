@@ -111,7 +111,7 @@ setup(
         'progressbar',
         'rpyc',
         'cffi>=1.7.0',
-        'unicorn',
+        'unicorn<=1.0.0',
         'archinfo>=7.8.2.21',
         'claripy>=7.8.2.21',
         'cle>=7.8.2.21',
